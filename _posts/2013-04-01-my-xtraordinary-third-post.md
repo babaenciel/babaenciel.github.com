@@ -1,17 +1,8 @@
 ---
-title: xtraordinary third post
+title: The First. I used Jekyll :)
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elemen\
-tum leo non felis porttitor vulputate. Nulla ipsum quam, auctor ut hendreri\
-t quis, tincidunt eu metus. Quisque ipsum tellus, semper a tempus quis, int\
-erdum vel magna. Cras a nisl diam, in accumsan augue. Pellentesque varius n\
-ibh eu diam tempor rhoncus.
+Hello World!
 
-## Pellentesque sollicitudin
-
-Erat pellentesque ornare gravida, ipsum est luctus neque, eget condimentum \
-urna arcu sit amet felis. Duis nisl augue, scelerisque quis iaculis non, co\
-mmodo a tellus. Class aptent taciti sociosqu ad litora torquent per conubia\
- nostra, per inceptos himenaeos. Etiam tincidunt porttitor nibh at semper. 
+Udah cukup lama aku mau bikin blog baru tapi ndak kesampaian-kesampaian. Bikin blog baru itu sekalian mencoba teknologi baru juga. Kemaren awalnya aku nyobain bikin blognya pake YII tapi males akhirnya haha. Eh trus entah bagaimana ceritanya aku ketemu sama yang namanya Jekyll ini. Dia ditulis pake Ruby yang RoR nya lagi hot-hotnya itu tuh. Ternyata kata beberapa orang yang udah pake Jekyll, mereka bilang Jekyll manteb lah intinya. Manteb karena kesederhanannya untuk blogging walaupun bukan diperuntukkan kepada orang awam programming.
