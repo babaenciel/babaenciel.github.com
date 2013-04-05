@@ -4,7 +4,7 @@ layout: post
 ---
 
 Dengan blog baruku ini, aku malah jadi semakin berhati-hati dalam menulis, dan pada akhirnya... tak ada satu post pun yang muncul setelah post pertama.
-Seringkali yang kualami ketika menulis, aku merasa kalau tulisanku itu really sucks. Bahasanya lebay, aneh, dan ndak enak kalau dibayangkan beneran, yang selalu bikin aku ndak jadi-jadi nulis. Nah! itu dia rahasia pertamanya, *Bayangkan kamu ngomong secara real nya*.
+Seringkali yang kualami ketika menulis, aku merasa kalau tulisanku itu really sucks. Bahasanya lebay, aneh, dan ndak enak kalau dibayangkan beneran. Nah! itu dia rahasia pertamanya, *Bayangkan kamu ngomong secara real nya*.
 
 Ketika aku nulis, biasanya aku ngomong kata-kata yang mau kutulis dalam hati. Tapi ternyata cuman dari situ aja belom cukup. Aku harus bayangin gimana ketika aku membaca tulisanku ini seperti ketika aku ngomong sama orang lain. Karena percakapan dalam hatiku itu kata-katanya sungguh tolol haha. Entah mengapa. Usahakan tiap kata-kata itu singkron dengan kata-kata yang sering kamu ucapkan ketika melakukan everyday conversation. 
 Bayangkan dirimu ngomong menggunakan tulisanmu, Niscaya, ke-awkward-an bahasa tulisan kamu akan berkurang.
